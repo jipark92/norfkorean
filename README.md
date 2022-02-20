@@ -1,6 +1,4 @@
-<br/>
-
-
+Hi There! I am Ji Young Park
 
 - 🔭 I’m currently working on .
 - 🌱 I’m currently learning more .
