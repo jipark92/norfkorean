@@ -12,3 +12,4 @@ Hi There! I am Ji Young Park
 [![Twitter : norfkorean](https://img.shields.io/twitter/follow/norfkorean?style=social)](https://twitter.com/norfkorean)
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=norfkorean&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
