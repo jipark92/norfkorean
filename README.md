@@ -12,4 +12,3 @@ Hi There! I am Ji Young Park
 [![Twitter : norfkorean](https://img.shields.io/twitter/follow/norfkorean?style=social)](https://twitter.com/norfkorean)
 
 
-<img src="[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/imthepk/)">
