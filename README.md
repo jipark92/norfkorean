@@ -9,3 +9,4 @@ Hi There! I am Ji Young Park
 - ⚡ Fun fact: I am a breakdancer and I've been breakdancing for 12years.
 .
 
+[![Twitter : norfkorean](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fnorfkorean)](https://twitter.com/norfkorean)
