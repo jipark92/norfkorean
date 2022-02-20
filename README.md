@@ -6,5 +6,6 @@ Hi There! I am Ji Young Park
 - 🤔 I'm looking for help with any javascript problems.
 - 💬 Ask me about my experiences learning to code!
 - 📫 How to reach me: [Twitter - @norfkorean](https://twitter.com/norfkorean), [LinkedIn - @Ji Young Park](https://www.linkedin.com/in/ji-young-park-457a96a1/)
-- ⚡ Fun fact: I spend .
+- ⚡ Fun fact: I am a breakdancer and I've been breakdancing for 12years.
+.
 
