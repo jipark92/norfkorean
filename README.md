@@ -7,6 +7,7 @@ Hi There! I am Ji Young Park
 - 💬 Ask me about my experiences learning to code!
 - 📫 How to reach me: [Twitter - @norfkorean](https://twitter.com/norfkorean), [LinkedIn - @Ji Young Park](https://www.linkedin.com/in/ji-young-park-457a96a1/)
 - ⚡ Fun fact: I am a breakdancer and I've been breakdancing for 12years.
+- ⚡ Fun Videos: I upload video of myself coding the projects I am working on [Twitter - @norfkorean](https://www.tiktok.com/@norfkorean)
 .
 
 [![Twitter : norfkorean](https://img.shields.io/twitter/follow/norfkorean?style=social)](https://twitter.com/norfkorean)
