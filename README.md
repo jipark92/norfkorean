@@ -3,7 +3,7 @@ Hi There! I am Ji Young Park
 - 🔭 I'm currently studying html, css, and javascript.
 - 🌱 I'm currently learning more about piecing javascript together.
 - 💬 Ask me about my experiences learning to code!
-- 📫 How to reach me: [Twitter-@norfkorean](https://twitter.com/norfkorean) and [LinkedIn](https://www.linkedin.com/in/ji-young-park-457a96a1/)
+- 📫 How to reach me: [Twitter](https://twitter.com/norfkorean) and [LinkedIn](https://www.linkedin.com/in/ji-young-park-457a96a1/)
 - ⚡ Fun Blog: I started writing blogs about my coding journey at [HashNode](https://norfkorean.hashnode.dev/)
 - ⚡ Fun Videos: I upload time lapse video of myself coding the projects I am working on [TikTok](https://www.tiktok.com/@norfkorean)
 - ⚡ Fun Fact: I am a breakdancer and I've been breakdancing for 12years.You can find short clips of me at [Instagram](https://instagram.com/bboyji_)
