@@ -9,7 +9,9 @@ Hi There! I am Ji Young Park
 - ⚡ Fun Blog: I started writing blogs about my coding journey at [HashNode](https://norfkorean.hashnode.dev/)
 - ⚡ Fun Fact: I am an breakdancer and I've been breakdancing for 12years.You can find short clips of me at [Instagram](https://instagram.com/bboyji_)
 - ⚡ Fun Videos: I upload time lapse video of myself coding the projects I am working on [TikTok](https://www.tiktok.com/@norfkorean)
-\
+
+
+
 [![Twitter : norfkorean](https://img.shields.io/twitter/follow/norfkorean?style=social)](https://twitter.com/norfkorean)
 
 
