@@ -1,5 +1,3 @@
-Hi There! I am Ji Young Park
-
 - 🔭 I am currently taking The Odin Project - Javascript Curriculum.
 - 📫 How to reach me: [Twitter](https://twitter.com/norfkorean) and [LinkedIn](https://www.linkedin.com/in/ji-young-park-457a96a1/)
 
