@@ -1,17 +1,10 @@
 Hi There! I am Ji Young Park
 
-- 🔭 I'm currently studying html, css, and javascript.
-- 🌱 I'm currently learning more about piecing javascript together.
-- 💬 Ask me about my experiences learning to code!
-- 📫 How to reach me: [Twitter](https://twitter.com/norfkorean) and [LinkedIn](https://www.linkedin.com/in/ji-young-park-457a96a1/)
-- ⚡ Fun Blog: I started writing blogs about my coding journey at [HashNode](https://norfkorean.hashnode.dev/)
+- 🔭 I am currently taking The Odin Project - Javascript Curriculum.
+- 🌱 Fun Blog: I started writing blogs about my coding journey at [HashNode](https://norfkorean.hashnode.dev/)
 - ⚡ Fun Videos: I upload time lapse video of myself coding the projects I am working on [TikTok](https://www.tiktok.com/@norfkorean)
-- ⚡ Fun Fact: I am a breakdancer and I've been breakdancing for 12years.You can find short clips of me at [Instagram](https://instagram.com/bboyji_)
-
-
-
-[![Twitter : norfkorean](https://img.shields.io/twitter/follow/norfkorean?style=social)](https://twitter.com/norfkorean)
-
+- 💬 Fun Fact: I am a breakdancer and I've been breakdancing for 12years.You can find short clips of me at [Instagram](https://instagram.com/bboyji_)
+- 📫 How to reach me: [Twitter](https://twitter.com/norfkorean) and [LinkedIn](https://www.linkedin.com/in/ji-young-park-457a96a1/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=norfkorean&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
@@ -20,3 +13,5 @@ Hi There! I am Ji Young Park
 
 <!-- - 👯 I'm looking to collaborate on any project to improve my experience. -->
 <!-- - 🤔 I'm looking for help with any javascript problems. -->
+<!-- [![Twitter : norfkorean](https://img.shields.io/twitter/follow/norfkorean?style=social)](https://twitter.com/norfkorean)
+ -->
