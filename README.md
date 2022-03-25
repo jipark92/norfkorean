@@ -6,6 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norfkorean&theme=dark&hide_langs_below=1"><img src="https://github-readme-stats.vercel.app/api?username=norfkorean&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+ -⚡ Current skills: HTML, CSS, JAVASCRIPT, API, WEBPACK, NPM, JEST, BABEL...
 
 
 
