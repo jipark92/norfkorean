@@ -1,6 +1,6 @@
 - 🔭 I am currently taking The Odin Project - Javascript Curriculum.
-- ⚡ Current skills: HTML, CSS, JAVASCRIPT, GIT
-- ⚡ Know little bit of: API, WEBPACK, NPM, JEST, BABEL...
+- ⚡ Current skills: HTML, CSS, JAVASCRIPT, GIT, API
+- ⚡ Know little bit of: WEBPACK, NPM, JEST, BABEL...
 - 🌱 Coding Content: My Blogs @ [HashNode](https://norfkorean.hashnode.dev/) && Coding Project Time Lapse @ [TikTok](https://www.tiktok.com/@norfkorean)
 - 📫 Contact: [Twitter](https://twitter.com/norfkorean) and [LinkedIn](https://www.linkedin.com/in/ji-young-park-457a96a1/)
 
