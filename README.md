@@ -5,7 +5,7 @@
 - 📫 Contact: [Twitter](https://twitter.com/norfkorean) and [LinkedIn](https://www.linkedin.com/in/ji-young-park-457a96a1/)
 
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=norfkoream&theme=buefy&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=norfkorean&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norfkorean&theme=buefy&layout=compact" />
 </a>
 
