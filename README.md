@@ -1,9 +1,11 @@
 <h2>About Me</h2>
+
 - 🔭 I am currently taking The Odin Project - Javascript Curriculum.
 - 🌱 Coding Content: My Blogs @ [HashNode](https://norfkorean.hashnode.dev/) && Coding Project Time Lapse @ [TikTok](https://www.tiktok.com/@norfkorean)
 - 📫 Contact: [Twitter](https://twitter.com/norfkorean) and [LinkedIn](https://www.linkedin.com/in/ji-young-park-457a96a1/)
 - 
 <h2>Tech Stack</h2>
+
 Languages: React, Javascript, Html/Css, Node, Express, Mongo
 Tools: Git, Npm
 <a href="https://github.com/AVS1508">
