@@ -3,7 +3,7 @@
 - 🔭 I am currently taking The Odin Project - Javascript Curriculum.
 - 🌱 Coding Content: 
   - Blogs @ [HashNode](https://norfkorean.hashnode.dev/) 
-  - Coding Time Lapse @ [TikTok](https://www.tiktok.com/@norfkorean)
+  - Time Lapse @ [TikTok](https://www.tiktok.com/@norfkorean)
 - 📫 Contact: [Twitter](https://twitter.com/norfkorean) and [LinkedIn](https://www.linkedin.com/in/ji-young-park-457a96a1/)
 
 <h2>Tech Stack</h2>
