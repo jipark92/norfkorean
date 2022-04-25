@@ -4,7 +4,10 @@
 - 🌱 Coding Content: My Blogs @ [HashNode](https://norfkorean.hashnode.dev/) && Coding Project Time Lapse @ [TikTok](https://www.tiktok.com/@norfkorean)
 - 📫 Contact: [Twitter](https://twitter.com/norfkorean) and [LinkedIn](https://www.linkedin.com/in/ji-young-park-457a96a1/)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=norfkorean&theme=dark&hide_langs_below=1"><img src="https://github-readme-stats.vercel.app/api?username=norfkorean&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=norfkoream&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norfkorean&theme=buefy&layout=compact" />
+</a>
 
 
 
