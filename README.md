@@ -1,16 +1,14 @@
 <h2>About Me</h2>
 
-- 🔭 I am currently taking The Odin Project - Javascript Curriculum.
-- 🌱 Coding Content: 
-  - Blogs @ [HashNode](https://norfkorean.hashnode.dev/) 
-  - Time Lapse @ [TikTok](https://www.tiktok.com/@norfkorean)
+- 🔭 I am currently teaching myself to code through The Odin Project - Javascript Curriculum.
+- 🌱 Coding Content: Blogs @ [HashNode](https://norfkorean.hashnode.dev/) && Time Lapse @ [TikTok](https://www.tiktok.com/@norfkorean)
 - 📫 Contact: [Twitter](https://twitter.com/norfkorean) and [LinkedIn](https://www.linkedin.com/in/ji-young-park-457a96a1/)
 
 <h2>Tech Stack</h2>
 
 - ⚡ Frontend: React, Javascript, Html/Css, 
-- 👯  Backend: Node, Express, MongoDB
-- 💬  Tools: Git, Npm
+- 👯  Backend: MongoDB, Express, Node
+- 💬  Tools: Git, Npm, Bootstrap
 <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=norfkorean&theme=buefy&show_icons=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norfkorean&theme=buefy&layout=compact" />
 </a>
