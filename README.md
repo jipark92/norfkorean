@@ -1,4 +1,5 @@
 <h2>About Me</h2>
+
 - 🌱 Coding Content: Blogs @ [HashNode](https://norfkorean.hashnode.dev/) && Time Lapse @ [TikTok](https://www.tiktok.com/@norfkorean)
 - 📫 Contact: [Twitter](https://twitter.com/norfkorean) and [LinkedIn](https://www.linkedin.com/in/ji-young-park-457a96a1/)
 
