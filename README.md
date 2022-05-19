@@ -7,9 +7,9 @@
 
 <h2>Tech Stack</h2>
 
-- ⚡ Frontend: React, Javascript, Html/Css, 
+- ⚡ Frontend: React, Javascript, Html/Css(bootstrap), 
 - 👯  Backend: MongoDB, Express, Node
-- 💬  Tools: Git, Npm, Bootstrap
+- 💬  Tools: Git, Npm
 <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=norfkorean&theme=buefy&show_icons=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=norfkorean&theme=buefy&layout=compact" />
 </a>
