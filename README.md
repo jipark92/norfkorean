@@ -1,6 +1,6 @@
 <h2>About Me</h2>
 
-- Ji Park / 29
+- Ji Park / Learning to code through The Odin Project- Javascript-> React-> Express Curriculum
 - 🌱 Coding Content: 
   - Blogs @ [HashNode](https://norfkorean.hashnode.dev/) 
   - Time Lapse @ [TikTok](https://www.tiktok.com/@norfkorean)
