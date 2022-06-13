@@ -1,6 +1,6 @@
 <h2>About Me</h2>
 
-- Ji Park / Learning to code through The Odin Project - Javascript -> React -> Node(Express)
+- Ji Park / Learning to code through The Odin Project.
 - 🌱 Coding Content: 
   - Blogs @ [HashNode](https://norfkorean.hashnode.dev/) 
   - Time Lapse @ [TikTok](https://www.tiktok.com/@norfkorean)
